@@ -6,7 +6,8 @@
 - [x] header, main, footer
 -[] Imagenes con <img>
 -[] Enlaces
--[]
+-[] Divs
+-[] 
 
 
 
