@@ -4,6 +4,9 @@
 - [x] p
 - [x] nav
 - [x] header, main, footer
+-[] Imagenes con <img>
+-[] Enlaces
+-[]
 
 
 
